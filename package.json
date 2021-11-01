@@ -1,0 +1,19 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "serve": "lite-server ."
+  },
+  "keywords": [],
+  "author": "Elhaji Samba SY",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
