@@ -1,0 +1,162 @@
+    1  git status
+    2  git branch
+    3  cd /Desktop/learn_git_again
+    4  cd /Desktop/learn_git_again
+    5  cd Desktop/learn_git_again
+    6  git init
+    7  touch third.txt
+    8  ls
+    9  git add third.txt
+   10  git status
+   11  git log
+   12  git add Capture 1&2
+   13  git add Capture 1&2.PNG
+   14  LS
+   15  git stattus
+   16  git status
+   17  git commit -m 'Adding third.txt'
+   18  git log
+   19  git add quatriéme.txt
+   20  lcs
+   21  lsc
+   22  cls
+   23  cls
+   24  reset
+   25  touch quatriéme.txt
+   26  git add quatriéme.txt
+   27  ls
+   28  git status
+   29  git commit -m 'Adding quatriéme.txt'
+   30  git status
+   31  git log
+   32  touch fichier.txt
+   33  git add fichier.txt
+   34  git status
+   35  git commit -m 'fichier.txt'
+   36  git log
+   37  git rm fichier.txt
+   38  git commit -m 'Suppression fichier.txt'
+   39  git log
+   40  git config --global
+   41  git remote add origin https://github.com/AmsaDara/Gomycode.git
+   42  git remote
+   43  git push origin master
+   44  git add -u -n
+   45  git add Capture12.PNG
+   46  git add Capture2.PNG
+   47  git add Capture3.PNG
+   48  git add Capture4.PNG
+   49  git add Capture5.PNG
+   50  git add Capture6.PNG
+   51  git add Capture7.PNG
+   52  git add Capture8.PNG
+   53  git add Capture9.PNG
+   54  git add Capture10.PNG
+   55  git status
+   56  git commit -m 'Ds nouveaux fichier'
+   57  git log
+   58  git branch -M main
+   59  git remote add origin https://github.com/AmsaDara/Gomycode.git
+   60  git branch -M main
+   61  git push origin main
+   62  git init
+   63  git add thrid.txt
+   64  git add third.txt
+   65  git add quatriéme.txt
+   66  git add capture12.PNG
+   67  git add Capture3.PNG
+   68  git add Capture4.PNG
+   69  git add Capture5.PNG
+   70  git add Capture6.PNG
+   71  git add Capture7.PNG
+   72  git add Capture8.PNG
+   73  git add Capture9.PNG
+   74  git add Capture10.PNG
+   75  git commit -m 'Initialisation De Mon Projet'
+   76  touch moi.php
+   77  git add moi.php
+   78  git commit -m 'Creer un autre fichier exemple'
+   79  git log
+   80  git reset
+   81  reset
+   82  git branch
+   83  git branch fichierUtile
+   84  git branch
+   85  git checkout fichierUtile
+   86  git log
+   87  git checkout master
+   88  git merge fichierUtile
+   89  git branch -d fichierUtile
+   90  git branch
+   91  git remote add origin https://github.com/AmsaDara/Gomycode.git
+   92  git remote
+   93  reset
+   94  git push origin master
+   95  git push --set-upstream origin master
+   96  git push 
+   97  git push --set-upstream origin master
+   98  git remote add origin https://github.com/AmsaDara/Gomycod
+   99  git remote add origin https://github.com/AmsaDara/Gomycod.git
+  100  git remote add origin https://github.com/AmsaDara/Gomycode.git
+  101  git remote add origin https://github.com/AmsaDara/Gomycode.git
+  102  git remote add origin https://github.com/AmsaDara/Gomycode.git
+  103  git add
+  104  git status
+  105  git commit -m 'alors'
+  106  git log
+  107  git remote add origin https://github.com/AmsaDara/Gomycode.git
+  108  git push
+  109  git push --set-upstream origin master
+  110  git remote add origin https://github.com/AmsaDara/Gomycode.git
+  111  git remote add origin https://github.com/AmsaDara/Gomycode.git
+  112  git remote
+  113  git push origin master
+  114  git add  -u -n
+  115  git init
+  116  git add
+  117  git add  -u -n
+  118  git status
+  119  git add third.txt
+  120  git status
+  121  git commit -m 'fichier third'
+  122  git add quatriéme.txt
+  123  git commit -m 'Mon quatriéme fichier'
+  124  git add 'Fichier PHP'
+  125  git add moi.php
+  126  git commit -m 'Mon fichier PHP'
+  127  git add Capture12.PNG
+  128  git add Capture3.PNG
+  129  git add Capture4.PNG
+  130  git add Capture5.PNG
+  131  git add Capture6.PNG
+  132  git add Capture7.PNG
+  133  git add Capture8.PNG
+  134  git add Capture9.PNG
+  135  git add Capture10.PNG
+  136  git commit -m 'Voici Mes Capture pour le TD'
+  137  git log
+  138  git remote add origin https://github.com/AmsaDara/Gomycode.git
+  139  git remote
+  140  git push origin master
+  141  git init
+  142  ls -al
+  143  rm -RF .git
+  144  ls
+  145  rm -Rf .git
+  146  ls
+  147  touh .gitignore 
+  148  touch .gitignore 
+  149  git init
+  150  git add .
+  151  git init
+  152  git add .
+  153  git add .
+  154  git status
+  155  git add .
+  156  git status
+  157  git commit -m "initial commit"
+  158  git status
+  159  git add .
+  160  git status
+  161  git config
+  162  history > history1.txt
